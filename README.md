@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant en BTS SIO • Option Cybersécurité • Passionné par la sécurité, les réseaux et l’administration système</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Étudiant+en+BTS+SIO+option+Cybersécurité;Passionné+par+la+sécurité+informatique;Linux+%7C+Réseaux+%7C+Python+%7C+GitHub;Construction+d’un+portfolio+technique+solide" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Étudiant+en+BTS+SIO+option+Cybersécurité;Passionné+par+la+sécurité+informatique;Linux+%7C+Réseaux+%7C+Python+%7C+GitHub;Construction+d’un+portfolio+technique+solide" alt="Typing SVG](https://media.licdn.com/dms/image/v2/D4D03AQG9OGXWWGmvww/profile-displayphoto-scale_400_400/B4DZmpFFFKIEAg-/0/1759478305584?e=1776297600&v=beta&t=yauZDfzvEs4w6BidNeqih0WfGluSY6OTtPRwtafyn9g)" />
 </p>
 
 ---
