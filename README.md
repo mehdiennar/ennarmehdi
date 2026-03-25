@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant en BTS SIO • Option Cybersécurité • Passionné par la sécurité, les réseaux et l’administration système</h3>
 
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Étudiant+en+BTS+SIO+option+Cybersécurité;Passionné+par+la+sécurité+informatique;Linux+%7C+Réseaux+%7C+Python+%7C+GitHub;Construction+d’un+portfolio+technique+solide" alt="Typing SVG](https://media.licdn.com/dms/image/v2/D4D03AQG9OGXWWGmvww/profile-displayphoto-scale_400_400/B4DZmpFFFKIEAg-/0/1759478305584?e=1776297600&v=beta&t=yauZDfzvEs4w6BidNeqih0WfGluSY6OTtPRwtafyn9g)" />
+  profile.jpg
 </p>
 
 ---
@@ -95,20 +95,9 @@ Je développe progressivement un portfolio de projets concrets pour démontrer m
 
 ## Contact
 
-- Email : tonmail@mail.com
+- Email : gmail.com@gmail.com
 - GitHub : [github.com/ennarmehdi](https://github.com/ennarmehdi)
 
 ---
 
-## Ligne directrice de mon portfolio
 
-Chaque dépôt publié sur ce profil contient :
-- un objectif clair
-- une explication du fonctionnement
-- les technologies utilisées
-- les étapes d’installation
-- des exemples d’exécution
-- les limites du projet
-- les améliorations prévues
-
-Cela me permet de construire un portfolio lisible à la fois pour un recruteur technique et pour un encadrant pédagogique.
