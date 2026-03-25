@@ -2,7 +2,7 @@
 <h3 align="center">Étudiant en BTS SIO • Option Cybersécurité • Passionné par la sécurité, les réseaux et l’administration système</h3>
 
 <p align="center">
-  profile.jpg
+  <img src="https://github.com/ennarmehdi/ennarmehdi/blob/main/profile.jpg" width="200" style="border-radius:50%;" />
 </p>
 
 ---
